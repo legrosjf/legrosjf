@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jean-François Legros
+- 👀 I’m interested in video games and power grid automation
+- 🌱 I’m currently learning microservice development
+- 💞️ I’m looking to collaborate on CoMPAS project
+- 📫 How to reach me on slack: I'm available on lfenergy.slack.com
